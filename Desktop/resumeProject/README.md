@@ -50,7 +50,8 @@ LegacyAI helps developers and modernization teams analyze legacy source code by 
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing.png)
+![Landing Page](./screenshots/landingpage1.png)
+![Landing Page](./screenshots/landingpage2.png)
 
 ### Analysis Workspace
 ![Analysis Workspace](./screenshots/analyze.png)
